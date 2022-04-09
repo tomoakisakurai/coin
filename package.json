@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "expo": "^24.0.0",
-    "moment": "2.20.1",
+    "moment": "2.29.2",
     "native-base": "^2.3.7",
     "native-navigation": "^0.2.1",
     "react": "16.0.0",
